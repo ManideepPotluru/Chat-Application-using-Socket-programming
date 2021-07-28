@@ -14,3 +14,5 @@ Initially, the server is started and it's ready to accept new clients. Each clie
 How to run:
 Compile: Go to the home directory and type "make".
 Run: Java ChatServer and Java ChatClient.
+
+![Time delay in messages](https://user-images.githubusercontent.com/33234287/127380219-a937379d-11fa-4508-bdc3-2a955999359d.png)
